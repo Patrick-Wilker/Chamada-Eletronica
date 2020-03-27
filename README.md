@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/38691922/77796306-ca79e400-704d-11ea-83f2-239511979f5f.png" height="187" width="400">
 </p>
 
-<h2><img src="https://user-images.githubusercontent.com/38691922/77791007-98b04f80-7044-11ea-9602-4c78098960a0.png" height="40" width="40"> Tecnologias</h2>
+<h2><img src="https://user-images.githubusercontent.com/38691922/77791007-98b04f80-7044-11ea-9602-4c78098960a0.png" height="40" width="40"> Tecnologia</h2>
 
 * Java
 
